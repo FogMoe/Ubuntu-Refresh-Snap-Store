@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Use the "chmod +x Update.sh" command in the terminal to give this script executable permissions."
+echo "Use the 'chmod +x Update.sh' command in the terminal to give this script executable permissions."
 
 if pgrep -x "snap-store" > /dev/null
 then
